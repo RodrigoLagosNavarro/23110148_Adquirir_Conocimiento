@@ -1,4 +1,4 @@
-#Rodrigo Lagos Navarro 23110148 7E
+Rodrigo Lagos Navarro 23110148 7E
 Chatbot con Adquisición de Conocimiento
 
 Este proyecto implementa un chatbot sencillo en Python que puede aprender nuevas respuestas durante la conversación.
